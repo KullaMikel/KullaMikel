@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KullaMikel
 - 👀 I’m interested in programing in C/C++, python, java and web development 
 - 🌱 I’m currently learning C++ and studing finance and accounting 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
                   - whatsapp/viber: +355696123144
                   - instagram: mikelkulla 
